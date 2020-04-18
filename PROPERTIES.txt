@@ -1,0 +1,9 @@
+DEFINE=com.company.Define
+-=com.company.Diff
+/=com.company.Div
+*=com.company.Mul
+POP=com.company.Pop
+PRINT=com.company.Print
+PUSH=com.company.Push
+SQRT=com.company.Sqrt
++=com.company.Summ
